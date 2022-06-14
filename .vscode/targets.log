@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Jun 14 11:36:31 2022
+# Make data base, printed on Tue Jun 14 15:56:12 2022
 
 # Variables
 
@@ -51,11 +51,11 @@ VSCODE_CWD = /mnt/c/Users/sevcn/AppData/Local/Programs/Microsoft VS Code
 # default
 MAKE_HOST := x86_64-pc-linux-gnu
 # environment
-PATH = /home/lansev/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Python39/Scripts/:/mnt/c/Python39/:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files/PuTTY/:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/MinGW/bin:/mnt/c/myprograms/strawberry/c/bin:/mnt/c/myprograms/strawberry/perl/site/bin:/mnt/c/myprograms/strawberry/perl/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Users/sevcn/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/sevcn/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/sevcn/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/sevcn/AppData/Roaming/npm:/mnt/c/Users/sevcn/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/FFmpeg/bin:/mnt/c/Program Files/visualvm_211/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.3.1/bin:/snap/bin
+PATH = /home/lansev/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/VMware/VMware Player/bin/:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Python39/Scripts/:/mnt/c/Python39/:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files/PuTTY/:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/MinGW/bin:/mnt/c/myprograms/strawberry/c/bin:/mnt/c/myprograms/strawberry/perl/site/bin:/mnt/c/myprograms/strawberry/perl/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Users/sevcn/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/sevcn/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/sevcn/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/sevcn/AppData/Roaming/npm:/mnt/c/Users/sevcn/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/FFmpeg/bin:/mnt/c/Program Files/visualvm_211/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.3.1/bin:/snap/bin
 # environment
 VSCODE_LOG_STACK = false
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-ba01d4a1-00be-4f25-83c5-b1a403d2087d.sock
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-4d08566a-9379-40b2-a264-01d454ff547d.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -69,7 +69,7 @@ PWD = /home/lansev/prog-2-dn
 # default
 .LOADED := 
 # environment
-WSL_INTEROP = /run/WSL/524_interop
+WSL_INTEROP = /run/WSL/11_interop
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
@@ -213,6 +213,6 @@ GNUmakefile:
 # strcache performance: lookups = 28 / hit rate = 10%
 # hash-table stats:
 # Load=25/8192=0%, Rehash=0, Collisions=1/28=4%
-# Finished Make data base on Tue Jun 14 11:36:31 2022
+# Finished Make data base on Tue Jun 14 15:56:12 2022
 
  
