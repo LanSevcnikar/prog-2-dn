@@ -8,7 +8,7 @@
 
 char* zdruzi(char** nizi, char* locilo) {
     // I do not think this will work on other machines, it gives some ver yunpredictable behaviour
-    char ans[10000];
+    char* ans = (char*)malloc(1000 * sizeof(char));
     int i = 0;
     while(*(nizi) != NULL){
         for (int j = 0; j < strlen(*nizi); j++){
@@ -23,8 +23,7 @@ char* zdruzi(char** nizi, char* locilo) {
         nizi ++;
     }
     ans[i] = '\0';
-    char* s = ans;
-    return s;
+    return ans;
 }
 
 
